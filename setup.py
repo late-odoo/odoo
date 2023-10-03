@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- late-odoo
 
 from setuptools import find_packages, setup
 from os.path import join, dirname
